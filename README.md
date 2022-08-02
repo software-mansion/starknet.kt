@@ -1,4 +1,4 @@
-# starknet.kt
+# starknet-jvm
 StarkNet SDK for Kotlin
 
 
